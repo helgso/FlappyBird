@@ -1,0 +1,9 @@
+public class flappyBird {
+  public static  void main(String[] args) {
+    
+    Game game = new Game();
+    Game.run();
+    //game.close();
+    
+  }
+}
