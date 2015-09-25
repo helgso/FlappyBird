@@ -6,4 +6,4 @@ Gameplay of the original game: https://www.youtube.com/watch?v=fQoJZuBwrkU
 
 Wikipedia article: https://en.wikipedia.org/wiki/Flappy_Bird
 
-# How to run/build
+## How to run/build
