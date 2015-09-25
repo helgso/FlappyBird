@@ -5,3 +5,5 @@ http://www.amazon.ca/Beginning-Android-Games-Mario-Zechner/dp/1430246774/ref=sr_
 Gameplay of the original game: https://www.youtube.com/watch?v=fQoJZuBwrkU
 
 Wikipedia article: https://en.wikipedia.org/wiki/Flappy_Bird
+
+# How to run/build
