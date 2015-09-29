@@ -4,7 +4,7 @@ http://www.amazon.ca/Beginning-Android-Games-Mario-Zechner/dp/1430246774/ref=sr_
 
 The framework can be found here: https://code.google.com/p/beginning-android-games/
 
-I got the graphics for the game with Google image search and redrew most in Gimp until I was satisfied with the quality of the replicas. I also wrote the gamelogic as in the classes for the bird, pipes, the scrolling mechanism and score system.
+I got the graphics for the game with Google image search and redrew most in Gimp until I was satisfied with the quality of the replicas. I also wrote the gamelogic, that is, the classes for the bird, pipes, the scrolling mechanism, score system, physics and collision detection.
 
 Gameplay of the original game: https://www.youtube.com/watch?v=fQoJZuBwrkU
 
