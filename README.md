@@ -1,5 +1,5 @@
 # FlappyBird
-Flappy Bird developed by Dong Nguyen blew up in popularity when it was released in 2013 on Android and iOS. I made it my mission to do a replica of the game. This is my first finished Android game. It is based on an open source gaming framework provided by Mario Zechner and Robert Green, the authors of "Beginning Android Games":
+Flappy Bird developed by Dong Nguyen blew up in popularity when it was released back in 2013 on Android and iOS. I made it my mission to do a replica of the game. This is my first finished Android game. It is based on an open source gaming framework provided by Mario Zechner and Robert Green, the authors of "Beginning Android Games":
 http://www.amazon.ca/Beginning-Android-Games-Mario-Zechner/dp/1430246774
 
 The framework can be found here: https://code.google.com/p/beginning-android-games/
